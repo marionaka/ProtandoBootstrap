@@ -1,0 +1,10 @@
+.letraColor{
+    color: blue;
+}
+main{
+    background-image: linear-gradient(to bottom,#F7DAD9, #FFF5DA);
+}
+.productosFila{
+    display: flex;
+    flex-direction: row;
+}
